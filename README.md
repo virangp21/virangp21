@@ -1,4 +1,36 @@
-### Hi there 👋
+### Introduction
+
+Technology leader with 12+ years of experience in creating innovative products and solutions and 3.5 years leading and managing development teams. 
+
+I’m currently working on building intelligent automation solutions that creates time for end users and improves business agility.
+
+### What do I know ? ( Languages & Technologies )
+
+- Automation Anywhere, UiPath, Microsoft Power Automate, RPA / IPA , Python
+
+- Azure, C#, MVC , ASP.NET,  Web API, WCF, LINQ, Entity Framework , TPL, .NET Core , gRPC, Protobuf
+
+- Docker, Kubernetes, Contianers
+
+- Microsoft Project 2016, Jira
+
+- React , Typescript , ES6, Knockout, JQuery , Javascript , Bootstrap, LESS, SASS
+
+- MSSQL Server 2005/2008/2012/2014, DB2, MySQL, T-SQL, PL/SQL, SSRS, SSIS 
+
+- Elasticsearch, Logstash , Kibana
+
+- REST APIs, Web Service 
+
+- Telerik RAD Controls, Kendo UI 
+
+- Informatica Cloud Integration, K2 Five 
+
+- Java, HTML, CSS, JScript.NET, XML,VB, COM components, Log4Net, ELMAH, OPC.NET, IIS,C,C++, Perl, UML 
+
+### Do you want to reach me ?
+
+https://www.linkedin.com/in/virang-patel/ 
 
 <!--
 **virangp21/virangp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
