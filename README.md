@@ -4,7 +4,11 @@ Technology leader with 12+ years of experience in creating innovative products a
 
 I’m currently working on building intelligent automation solutions that creates time for end users and improves business agility.
 
-### What do I know ? ( Languages & Technologies )
+That sounds like....
+
+<img src="https://vignette.wikia.nocookie.net/starwars/images/a/ae/Landos_Millennium_Falcon.png/revision/latest?cb=20190613053952" />
+
+### What do I actually know ? ( Languages & Technologies )
 
 - Automation Anywhere, UiPath, Microsoft Power Automate, RPA / IPA , Python
 
