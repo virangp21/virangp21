@@ -12,7 +12,7 @@ That sounds like....
 
 - Azure, C#, MVC , ASP.NET,  Web API, WCF, LINQ, Entity Framework , TPL, .NET Core , gRPC, Protobuf
 
--Akka.NET, EventStore, MongoDB, Actor Systems
+- Akka.NET, EventStore, MongoDB, Actor Systems
 
 - Automation Anywhere, UiPath, Microsoft Power Automate, RPA / IPA , Python
 
