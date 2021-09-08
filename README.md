@@ -2,7 +2,7 @@
 
 Technology leader with 12+ years of experience in creating innovative products and solutions and 3.5 years leading and managing development teams. 
 
-I’m currently working on building intelligent automation solutions that creates time for end users and improves business agility.
+I’m currently working on building microservices based application using actor systems.
 
 That sounds like....
 
@@ -10,9 +10,11 @@ That sounds like....
 
 ### What do I actually know ? ( Languages & Technologies )
 
-- Automation Anywhere, UiPath, Microsoft Power Automate, RPA / IPA , Python
-
 - Azure, C#, MVC , ASP.NET,  Web API, WCF, LINQ, Entity Framework , TPL, .NET Core , gRPC, Protobuf
+
+-Akka.NET, EventStore, MongoDB, Actor Systems
+
+- Automation Anywhere, UiPath, Microsoft Power Automate, RPA / IPA , Python
 
 - Docker, Kubernetes, Contianers
 
